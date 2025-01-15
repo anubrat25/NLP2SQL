@@ -18,8 +18,8 @@ This application is a Streamlit-based web interface that converts natural langua
 
 1. Clone the repository:
 ```bash
-git clone <[repository-url](https://github.com/anubrat25/NLP2SQL.git)>
-cd <NLP2SQL2>
+git clone https://github.com/anubrat25/NLP2SQL.git
+cd NLP2SQL
 ```
 
 2. Install the required dependencies:
